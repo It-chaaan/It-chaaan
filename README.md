@@ -1,7 +1,6 @@
 # Hi 👋, I'm Christian Guillermo
 
-🎓 Computer Science Student | 💻 Software Engineering Enthusiast  
-📍 Philippines  
+🎓 Computer Science Student | 💻 Software Engineering
 
 ---
 
