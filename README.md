@@ -10,7 +10,7 @@ I'm a Computer Science student with a strong interest in **software engineering*
 I enjoy building applications, learning new technologies, and solving real-world problems through code.
 
 - 🌱 Currently learning: **Backend Development, System Architecture, and Security**
-- 🧠 Interested in: **Web Applications, APIs, Cryptography, and Software Design**
+- 🧠 Interested in: **Web Applications and Software Design**
 - 🎯 Goal: To become a **skilled software engineer** and contribute to meaningful projects
 
 ---
