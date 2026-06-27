@@ -4,55 +4,49 @@ Computer Science Student | Software Engineering
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a Computer Science student with a strong interest in **software engineering**, **web development**, and **system design**.  
 I enjoy building applications, learning new technologies, and solving real-world problems through code.
 
-- 🌱 Currently learning: **Backend Development, System Architecture, and Security**
-- 🧠 Interested in: **Web Applications and Software Design**
-- 🎯 Goal: To become a **skilled software engineer** and contribute to meaningful projects
+- Currently learning: **Backend Development, Frontend Web Development, Mobile App Development, and Security**
+- Interested in: **Web Applications, Mobile Applications, and Software Design**
+- Goal: To become a **skilled software engineer** and contribute to meaningful projects.
 
 ---
 
-## 🛠️ Tech Stack
+# Tech Stack
 
-### 💻 Programming Languages
-- Python
-- JavaScript
-- Java
-- C / C++
-- PHP
-- Assembly
-- Matlab
-- Kotlin
+### Programming Languages
 
-### 🌐 Web Development
-- HTML5
-- CSS3
-- JavaScript
-- Django
-- Node.js (basic)
-- React
-- Bootstrap
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,php,kotlin" />
+</p>
 
-### 🗄️ Databases
-- MySQL
-- SQLite
+> **Also familiar with:** Assembly, MATLAB
 
-### ⚙️ Tools & Technologies
-- Git & GitHub
-- Visual Studio Code
-- Linux (basic)
-- Postman
-- Android Studio
+### Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,django,bootstrap,tailwind" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb,supabase" />
+</p>
+
+### Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,androidstudio,figma" />
+</p>
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
-- 📧 Email: guillermochristian19p@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/christian-guillermo-3821a838b
-- 🌐 Portfolio: coming soon
-- 📘 Facebook: https://www.facebook.com/christian.guillermo.146
-
+- **Email:** guillermochristian19p@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/christian-guillermo-3821a838b
+- **Portfolio:** Coming Soon 
