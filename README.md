@@ -1,6 +1,6 @@
-# Hi 👋, I'm Christian Guillermo
+# Hi, I'm Christian Guillermo
 
-🎓 Computer Science Student | 💻 Software Engineering
+Computer Science Student | Software Engineering
 
 ---
 
