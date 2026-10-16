@@ -1,44 +1,48 @@
+<div align="center">
+
 # Christian Guillermo
 
-**Computer Science student · Software developer**  
-FEU Institute of Technology · Software Engineering major · Open to internships
+**Software Developer** · Web & Mobile Applications
 
-[Portfolio](https://christianguillermo.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/christian-guillermo-3821a838b) · [Email](mailto:guillermochristian19p@gmail.com)
+Building practical software with thoughtful interfaces and reliable systems.
 
-## Profile
+[Portfolio](https://christianguillermo.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/christian-guillermo-3821a838b) &nbsp;·&nbsp; [Email](mailto:guillermochristian19p@gmail.com)
 
-I build practical web and mobile applications, with a focus on clear interfaces and reliable systems. My work spans full-stack development, UI/UX design, and software engineering projects.
+</div>
 
-## Selected Projects
+---
 
-**[Alalay](https://alalay-orpin.vercel.app/)** · Personal finance web and mobile app · 2026  
-Built a shared backend for expense tracking, bills, budgets, and savings goals. Added AI assistance and receipt scanning, along with authentication and protected APIs.  
-`React` `React Native` `Node.js` `Express` `Supabase`
+### 01 / About
 
-**[TAKO — Teaching with Adaptive Knowledge Orchestration](https://github.com/russellmagdaong/tako-game)** · Educational Android game · 2026  
-Designed the UI and user flows for an offline-first math RPG for Grades 7–10, then worked with the team to turn the designs into a prototype. The project placed **3rd out of 40 teams** at a hackathon.  
-`Figma` `Godot 4` `Android` `SQLite`
+I'm a Computer Science student focused on full-stack development and UI/UX design. I enjoy turning ideas into useful web and mobile experiences, from interface design through implementation.
 
-**Automated Cryptographic Hashing System for Legal Document Integrity Verification** · Thesis project · 2026  
-Designed and built responsive interfaces for document verification, user management, and audit records, integrating them with REST APIs.  
-`React` `Bootstrap` `Django REST Framework` `PostgreSQL`
+### 02 / Selected work
 
-## Technical Skills
+**[Alalay](https://alalay-orpin.vercel.app/)**  
+*Personal finance app · Web & mobile · 2026*
 
-- **Languages:** JavaScript, TypeScript, Java, C++, Python, PHP, SQL
-- **Development:** React, React Native, Next.js, Node.js, Express, Tailwind CSS, Bootstrap
-- **Data and tools:** PostgreSQL, MySQL, Supabase, Git, Postman, Figma
+Built a shared backend for tracking expenses, bills, budgets, and savings goals. Added AI assistance, receipt scanning, authentication, and protected APIs.
 
-## Experience
+`React` · `React Native` · `Node.js` · `Express` · `Supabase`
 
-**IT Support Intern** · Saint Mary’s Angels College of Valenzuela · Jan–May 2023  
-Troubleshot laboratory computers, configured routers and network connections, and repaired Ethernet cables to resolve connectivity issues.
+**[TAKO — Teaching with Adaptive Knowledge Orchestration](https://github.com/russellmagdaong/tako-game)**  
+*Educational Android game · 3rd place out of 40 teams · 2026*
 
-## Education
+Designed the interface and user flows for an offline-first math RPG for Grades 7–10, then collaborated with the team on the working prototype.
 
-**BS Computer Science, major in Software Engineering** · FEU Institute of Technology · Expected 2027  
-Certifications: PMI Project Management Ready, Cisco Introduction to Networks, IT Specialist – Python (Certiport), Android Development with Kotlin.
+`Figma` · `Godot 4` · `Android` · `SQLite`
 
-## Contact
+**Legal Document Integrity Verification**  
+*Software engineering thesis · 2026*
 
-I’m open to internships and software projects. Reach me at **[guillermochristian19p@gmail.com](mailto:guillermochristian19p@gmail.com)**.
+Designed and built responsive interfaces for document verification, user management, and audit records, integrating them with REST APIs.
+
+`React` · `Bootstrap` · `Django REST Framework` · `PostgreSQL`
+
+### 03 / Toolkit
+
+| | |
+| --- | --- |
+| **Languages** | JavaScript, TypeScript, Java, C++, Python, PHP, SQL |
+| **Development** | React, React Native, Next.js, Node.js, Express, Tailwind CSS, Bootstrap |
+| **Data & tools** | PostgreSQL, MySQL, Supabase, Git, Postman, Figma
