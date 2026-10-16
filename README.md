@@ -1,59 +1,44 @@
-# Hi, I'm Christian Guillermo
+# Christian Guillermo
 
-Computer Science Student | Software Engineering
+**Computer Science student · Software developer**  
+FEU Institute of Technology · Software Engineering major · Open to internships
 
----
+[Portfolio](https://christianguillermo.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/christian-guillermo-3821a838b) · [Email](mailto:guillermochristian19p@gmail.com)
 
-## About Me
+## Profile
 
-I'm a Computer Science student with a strong interest in **software engineering**, **web development**, **mobile development**, and **system design**. I enjoy building applications, learning new technologies, and solving real-world problems through code.
+I build practical web and mobile applications, with a focus on clear interfaces and reliable systems. My work spans full-stack development, UI/UX design, and software engineering projects.
 
-* Currently learning: **Backend Development, Frontend Web Development, Mobile App Development, and Security**
-* Interested in: **Web Applications, Mobile Applications, and Software Design**
-* Goal: To become a **skilled software engineer** and contribute to meaningful projects.
+## Selected Projects
 
----
+**[Alalay](https://alalay-orpin.vercel.app/)** · Personal finance web and mobile app · 2026  
+Built a shared backend for expense tracking, bills, budgets, and savings goals. Added AI assistance and receipt scanning, along with authentication and protected APIs.  
+`React` `React Native` `Node.js` `Express` `Supabase`
 
-# Tech Stack
+**[TAKO — Teaching with Adaptive Knowledge Orchestration](https://github.com/russellmagdaong/tako-game)** · Educational Android game · 2026  
+Designed the UI and user flows for an offline-first math RPG for Grades 7–10, then worked with the team to turn the designs into a prototype. The project placed **3rd out of 40 teams** at a hackathon.  
+`Figma` `Godot 4` `Android` `SQLite`
 
-### Programming Languages
+**Automated Cryptographic Hashing System for Legal Document Integrity Verification** · Thesis project · 2026  
+Designed and built responsive interfaces for document verification, user management, and audit records, integrating them with REST APIs.  
+`React` `Bootstrap` `Django REST Framework` `PostgreSQL`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,php,kotlin" />
-</p>
+## Technical Skills
 
-> **Also familiar with:** Assembly, MATLAB
+- **Languages:** JavaScript, TypeScript, Java, C++, Python, PHP, SQL
+- **Development:** React, React Native, Next.js, Node.js, Express, Tailwind CSS, Bootstrap
+- **Data and tools:** PostgreSQL, MySQL, Supabase, Git, Postman, Figma
 
-### Web Development
+## Experience
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,django,bootstrap,tailwind" />
-</p>
+**IT Support Intern** · Saint Mary’s Angels College of Valenzuela · Jan–May 2023  
+Troubleshot laboratory computers, configured routers and network connections, and repaired Ethernet cables to resolve connectivity issues.
 
-### Mobile Development
+## Education
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,kotlin,androidstudio" />
-</p>
+**BS Computer Science, major in Software Engineering** · FEU Institute of Technology · Expected 2027  
+Certifications: PMI Project Management Ready, Cisco Introduction to Networks, IT Specialist – Python (Certiport), Android Development with Kotlin.
 
-> **Frameworks:** React Native
+## Contact
 
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb,supabase" />
-</p>
-
-### Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,figma" />
-</p>
-
----
-
-## Connect with Me
-
-* **Email:** [guillermochristian19p@gmail.com](mailto:guillermochristian19p@gmail.com)
-* **LinkedIn:** https://www.linkedin.com/in/christian-guillermo-3821a838b
-* **Portfolio:** https://christianguillermo.vercel.app/
+I’m open to internships and software projects. Reach me at **[guillermochristian19p@gmail.com](mailto:guillermochristian19p@gmail.com)**.
